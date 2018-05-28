@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="82005" started-at="2018-05-28T13:42:26Z" finished-at="2018-05-28T13:43:48Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="82005" started-at="2018-05-28T13:42:26Z" finished-at="2018-05-28T13:43:48Z">
+      <class name="demoqastore.testproject.test.testsuite.TestOrderMagicMouse">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:demoqastore.testproject.test.testsuite.TestOrderMagicMouse@1554909b]" name="setUp" is-config="true" duration-ms="27526" started-at="2018-05-28T09:42:26Z" finished-at="2018-05-28T09:42:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testBuyMagicMouse()[pri:0, instance:demoqastore.testproject.test.testsuite.TestOrderMagicMouse@1554909b]" name="testBuyMagicMouse" duration-ms="54335" started-at="2018-05-28T09:42:53Z" finished-at="2018-05-28T09:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBuyMagicMouse -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demoqastore.testproject.test.testsuite.TestOrderMagicMouse@1554909b]" name="tearDown" is-config="true" duration-ms="105" started-at="2018-05-28T09:43:47Z" finished-at="2018-05-28T09:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demoqastore.testproject.test.testsuite.TestOrderMagicMouse -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
